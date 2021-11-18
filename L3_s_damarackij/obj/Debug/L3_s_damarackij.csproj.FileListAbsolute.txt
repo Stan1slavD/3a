@@ -1,0 +1,20 @@
+C:\Users\stasd\source\repos\L3_s_damarackij\L3_s_damarackij\obj\Debug\L3_s_damarackij.csprojAssemblyReference.cache
+C:\Users\stasd\source\repos\L3_s_damarackij\L3_s_damarackij\obj\Debug\L3_s_damarackij.Form1.resources
+C:\Users\stasd\source\repos\L3_s_damarackij\L3_s_damarackij\obj\Debug\L3_s_damarackij.Properties.Resources.resources
+C:\Users\stasd\source\repos\L3_s_damarackij\L3_s_damarackij\obj\Debug\L3_s_damarackij.csproj.GenerateResource.cache
+C:\Users\stasd\source\repos\L3_s_damarackij\L3_s_damarackij\bin\Debug\L3_s_damarackij.exe.config
+C:\Users\stasd\source\repos\L3_s_damarackij\L3_s_damarackij\bin\Debug\L3_s_damarackij.exe
+C:\Users\stasd\source\repos\L3_s_damarackij\L3_s_damarackij\bin\Debug\L3_s_damarackij.pdb
+C:\Users\stasd\source\repos\L3_s_damarackij\L3_s_damarackij\obj\Debug\L3_s_damarackij.csproj.CopyComplete
+C:\Users\stasd\source\repos\L3_s_damarackij\L3_s_damarackij\obj\Debug\L3_s_damarackij.exe
+C:\Users\stasd\source\repos\L3_s_damarackij\L3_s_damarackij\obj\Debug\L3_s_damarackij.pdb
+C:\Users\stasd\OneDrive\Рабочий стол\L3_s_damarackij\L3_s_damarackij\bin\Debug\L3_s_damarackij.exe.config
+C:\Users\stasd\OneDrive\Рабочий стол\L3_s_damarackij\L3_s_damarackij\bin\Debug\L3_s_damarackij.exe
+C:\Users\stasd\OneDrive\Рабочий стол\L3_s_damarackij\L3_s_damarackij\bin\Debug\L3_s_damarackij.pdb
+C:\Users\stasd\OneDrive\Рабочий стол\L3_s_damarackij\L3_s_damarackij\obj\Debug\L3_s_damarackij.csprojAssemblyReference.cache
+C:\Users\stasd\OneDrive\Рабочий стол\L3_s_damarackij\L3_s_damarackij\obj\Debug\L3_s_damarackij.Form1.resources
+C:\Users\stasd\OneDrive\Рабочий стол\L3_s_damarackij\L3_s_damarackij\obj\Debug\L3_s_damarackij.Properties.Resources.resources
+C:\Users\stasd\OneDrive\Рабочий стол\L3_s_damarackij\L3_s_damarackij\obj\Debug\L3_s_damarackij.csproj.GenerateResource.cache
+C:\Users\stasd\OneDrive\Рабочий стол\L3_s_damarackij\L3_s_damarackij\obj\Debug\L3_s_damarackij.csproj.CopyComplete
+C:\Users\stasd\OneDrive\Рабочий стол\L3_s_damarackij\L3_s_damarackij\obj\Debug\L3_s_damarackij.exe
+C:\Users\stasd\OneDrive\Рабочий стол\L3_s_damarackij\L3_s_damarackij\obj\Debug\L3_s_damarackij.pdb
